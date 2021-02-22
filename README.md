@@ -1,6 +1,6 @@
-# wypozyczalnia przedmiotów 
+# Item rental
 ## General Info 
-Wypożyczalnia is application for renting various types of items. 
+Item rental is application for renting various types of items. 
 In this application  we can: 
 * register account
 * login 
@@ -19,4 +19,4 @@ This project was created on Engineering Work.
 This repositories is a back-end part. 
 
 ## Technology 
-* Django 
+* Django Rest Framework 
